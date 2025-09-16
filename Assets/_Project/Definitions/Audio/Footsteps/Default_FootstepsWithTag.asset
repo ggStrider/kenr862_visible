@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 529740fad70c44d69d0603705089161a, type: 3}
+  m_Name: Default_FootstepsWithTag
+  m_EditorClassIdentifier: 
+  <FootstepsSoundsAndTags>k__BackingField:
+  - <Tag>k__BackingField: Carpet
+    <Clips>k__BackingField:
+    - {fileID: 8300000, guid: 45ecc64748d310042adc396e1947d1c0, type: 3}
+    - {fileID: 8300000, guid: 9fc7e20258df49c46a357b1f175def06, type: 3}
+    - {fileID: 8300000, guid: 5c48d077de4948a499e52c525d8ca138, type: 3}
+    - {fileID: 8300000, guid: 8499ceb6475f9534ea1e7129396eb5cf, type: 3}
+    - {fileID: 8300000, guid: 7654543e3c707b64faa0585fbc4c4bdc, type: 3}
+    - {fileID: 8300000, guid: f6ab8d4efffca144fa9abbe252182b2a, type: 3}
+    - {fileID: 8300000, guid: f57bef3ebc074044ba9f098e55289d82, type: 3}
+    - {fileID: 8300000, guid: 2601dc6ac8b6b3344b074cb375512e13, type: 3}
+  - <Tag>k__BackingField: WoodenFloor
+    <Clips>k__BackingField:
+    - {fileID: 8300000, guid: 9096f506c115e3840a9881919c303279, type: 3}
+    - {fileID: 8300000, guid: 8ee07d3b2a6f79a43b0364ff1a39dd37, type: 3}
+    - {fileID: 8300000, guid: 329101271f394234aa8568731aec2aba, type: 3}
+    - {fileID: 8300000, guid: 14d6c38b1a41e074da58878c3f162076, type: 3}
+    - {fileID: 8300000, guid: bf0d1eaa0215c0441a9d27249f6d83ac, type: 3}
+    - {fileID: 8300000, guid: c77d0bc6f0f6d89449b60b3ec963f0e0, type: 3}
+    - {fileID: 8300000, guid: c38c8c0530bb017489eb7a126d2d4392, type: 3}
+    - {fileID: 8300000, guid: f4ff45e5ccbc307488ed1121f3564a03, type: 3}
+    - {fileID: 8300000, guid: 91a1f47865cb315448bd174711a00368, type: 3}
+    - {fileID: 8300000, guid: 0dbc3d4f2647be847b376bfe062f59b2, type: 3}
+    - {fileID: 8300000, guid: 0b1e494d18646094899b823e22545e4c, type: 3}
+    - {fileID: 8300000, guid: 8ac99fa719827bb46a972bac9bfd6606, type: 3}
+    - {fileID: 8300000, guid: 76b7b73a53f3be74eaf33c5a12a5877b, type: 3}
+    - {fileID: 8300000, guid: f425c7aafadbe8c498e76697d0d32272, type: 3}
+    - {fileID: 8300000, guid: 974ed588f2327544697608080631d929, type: 3}
+    - {fileID: 8300000, guid: 02a932546a71133468a8f9870469d8c8, type: 3}
+    - {fileID: 8300000, guid: 99c2a4cf6192b3b46a170255e345f428, type: 3}
+    - {fileID: 8300000, guid: 852bf1cbfc447a34f9ba2449506f20cf, type: 3}

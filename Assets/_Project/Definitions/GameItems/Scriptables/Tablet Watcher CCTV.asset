@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688b5508c6044ab3bc00b0b8f5ea7940, type: 3}
+  m_Name: Tablet Watcher CCTV
+  m_EditorClassIdentifier: 
+  ItemName: Tablet with cameras
+  ItemDescription: why are there no cameras in the bathroom?
+  _prefab: {fileID: 7348113102052578489, guid: 5839d40dc6832ea46b95d6f63f2bc551, type: 3}
+  _positionOffset: {x: 0.4, y: -0.22, z: 0}
+  _localRotation: {x: -6.64, y: -168.99, z: -88.98}
+  _useOriginalSize: 0
+  _size: {x: 140.06, y: 140.06, z: 140.06}

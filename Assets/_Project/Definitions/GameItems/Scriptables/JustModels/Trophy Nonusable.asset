@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 010948178c3a69344b6a4078cecade9c, type: 3}
+  m_Name: Trophy Nonusable
+  m_EditorClassIdentifier: 
+  ItemName: Trophy! You earned it!
+  ItemDescription: Why on earth did you pick that up?
+  _prefab: {fileID: 3300998096522070892, guid: 9785f6d2fb4ecbd40b862826b1511c87, type: 3}
+  _positionOffset: {x: 0.45, y: -0.14, z: 0.12}
+  _localRotation: {x: 0, y: 38.7, z: 0}
+  _useOriginalSize: 1
+  _size: {x: 1, y: 1, z: 1}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 010948178c3a69344b6a4078cecade9c, type: 3}
+  m_Name: Code Snack
+  m_EditorClassIdentifier: 
+  ItemName: Snack
+  ItemDescription: someone scribbled "2862" on it
+  _prefab: {fileID: 3989312429388672666, guid: 246987070ae5f50438044ac01c241e8e, type: 3}
+  _positionOffset: {x: 0.5, y: -0.19, z: -0.08}
+  _localRotation: {x: 0, y: 23.53, z: 0}
+  _useOriginalSize: 1
+  _size: {x: 1, y: 1, z: 1}

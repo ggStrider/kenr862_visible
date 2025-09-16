@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772d9663a52e4d4cbd5ae44ee3a5bc1c, type: 3}
+  m_Name: Exit Door Game Key
+  m_EditorClassIdentifier: 
+  ItemName: Key to the exit
+  ItemDescription: I CAN LEAVE THIS HOUSE!!! As soon as I finish the other tasks...
+  _prefab: {fileID: 2950209889981646880, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+  _positionOffset: {x: 0.3, y: -0.2, z: -0.15}
+  _localRotation: {x: 69.211, y: 354.455, z: 95.033}
+  _useOriginalSize: 1
+  _size: {x: 1, y: 1, z: 1}

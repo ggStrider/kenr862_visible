@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2154712606322202464
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.00335
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.604
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.6611597
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 571386717034299161, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2950209889981646880, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      propertyPath: m_Name
+      value: GameKey_1 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2950209889981646880, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2218181933801126195}
+    - targetCorrespondingSourceObject: {fileID: 2950209889981646880, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7490189292727647444}
+  m_SourcePrefab: {fileID: 100100000, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+--- !u!1 &3825337226403209024 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2950209889981646880, guid: e564eaf0381ed0c4c99a21144c2cf1f6, type: 3}
+  m_PrefabInstance: {fileID: 2154712606322202464}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2218181933801126195
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3825337226403209024}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.64016783, y: 0.34550703, z: 0.46019325}
+  m_Center: {x: -0.026132395, y: -0.0024788661, z: -0.022185206}
+--- !u!114 &7490189292727647444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3825337226403209024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b73ca319851148d8a2db806283db2abe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _itemToAdd: {fileID: 11400000, guid: 64d54e245e4824e4a9f9976409aee90b, type: 2}
+  _addIntoInventoryIfAlreadyHas: 0
+  _destroyWhenAdded: 1
+  _toDestroy: {fileID: 3825337226403209024}
